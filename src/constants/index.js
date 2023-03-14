@@ -8,13 +8,12 @@ import {
     html,
     css,
     reactjs,
-    redux,
+    vue,
     tailwind,
-    nodejs,
-    mongodb,
+    bootstrapp,
+    wordpress,
     git,
     figma,
-    docker,
     meta,
     starbucks,
     tesla,
@@ -82,19 +81,15 @@ import {
     },
     {
       name: "Vue JS",
-      icon: reactjs,
+      icon: vue,
     },
     {
       name: "Bootstrap",
-      icon: redux,
+      icon:  bootstrapp,
     },
     {
       name: "Tailwind CSS",
       icon: tailwind,
-    },
-    {
-      name: "Node JS",
-      icon: nodejs,
     },
     {
       name: "Three JS",
@@ -102,7 +97,7 @@ import {
     },
     {
       name: "Wordpress",
-      icon: nodejs,
+      icon: wordpress,
     },
     {
       name: "git",
