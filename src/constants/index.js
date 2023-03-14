@@ -81,7 +81,11 @@ import {
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
+      name: "Vue JS",
+      icon: reactjs,
+    },
+    {
+      name: "Bootstrap",
       icon: redux,
     },
     {
@@ -93,12 +97,12 @@ import {
       icon: nodejs,
     },
     {
-      name: "MongoDB",
-      icon: mongodb,
-    },
-    {
       name: "Three JS",
       icon: threejs,
+    },
+    {
+      name: "Wordpress",
+      icon: nodejs,
     },
     {
       name: "git",
@@ -108,19 +112,15 @@ import {
       name: "figma",
       icon: figma,
     },
-    {
-      name: "docker",
-      icon: docker,
-    },
   ];
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Apprenti médiamaticien",
+      company_name: "Médiathèque Valais-Wallis",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "août 2017 - juin 2021",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -129,11 +129,11 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "Soldat",
+      company_name: "Armée Suisse",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "juin 2021 - novembre 2021",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -142,11 +142,11 @@ import {
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
+      title: "Moniteur de ski",
+      company_name: "ESS-Nax",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "décembre 2021 - mars 2022",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -155,11 +155,11 @@ import {
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
+      title: "Manoeuvre en charpente",
+      company_name: "Pralong-Moix SA",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "avril 2022 - juin 2022",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -167,6 +167,46 @@ import {
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
+    {
+      title: "Étudiant en développement",
+      company_name: "École 42",
+      icon: meta,
+      iconBg: "#E6DEDD",
+      date: "juin 2022 - juillet 2022",
+      points: [
+        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Participating in code reviews and providing constructive feedback to other developers.",
+      ],
+    },
+    {
+      title: "Job d'étudiant",
+      company_name: "Commune de Saint-Martin",
+      icon: meta,
+      iconBg: "#E6DEDD",
+      date: "juillet 2022 - août 2022",
+      points: [
+        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Participating in code reviews and providing constructive feedback to other developers.",
+      ],
+    },
+    {
+      title: "Médiamaticien",
+      company_name: "HES-SO Valais-Wallis",
+      icon: meta,
+      iconBg: "#E6DEDD",
+      date: "juin 2022 - juillet 2022",
+      points: [
+        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Participating in code reviews and providing constructive feedback to other developers.",
+      ],
+    },
+
   ];
   
   const testimonials = [
