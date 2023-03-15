@@ -242,7 +242,7 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "wordpress",
           color: "green-text-gradient",
         },
         {
