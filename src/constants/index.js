@@ -117,23 +117,10 @@ import {
       iconBg: "#383E56",
       date: "août 2017 - juin 2021",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Soldat",
-      company_name: "Armée Suisse",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "juin 2021 - novembre 2021",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Développement de site web et d'application mobile.",
+        "Collaboration technique avec l'équipe de médiation culturelle.",
+        "Création d'affiches, flyers et autres visuels et autres projets audiovisuels.",
+        "Participation à la gestion des réseaux sociaux.",
       ],
     },
     {
@@ -143,10 +130,8 @@ import {
       iconBg: "#383E56",
       date: "décembre 2021 - mars 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Moniteur de ski pour les enfants de 3 à 12 ans.",
+        "Moniteur de ski pour adultes.",
       ],
     },
     {
@@ -156,10 +141,7 @@ import {
       iconBg: "#E6DEDD",
       date: "avril 2022 - juin 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Manoeuvre en charpente.",
       ],
     },
     {
@@ -169,10 +151,10 @@ import {
       iconBg: "#E6DEDD",
       date: "juin 2022 - juillet 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Développement en language C.",
+        "Création de projets en groupe.",
+        "Utilisation de la méthode SCRUM.",
+        "Travail en équipe et utilisation de Git.",
       ],
     },
     {
@@ -182,10 +164,8 @@ import {
       iconBg: "#E6DEDD",
       date: "juillet 2022 - août 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Refonte des archives de la commune de Saint-Martin.",
+        "Tris et classement des archives.",
       ],
     },
     {
@@ -193,12 +173,12 @@ import {
       company_name: "HES-SO Valais-Wallis",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "juin 2022 - juillet 2022",
+      date: "décembre 2022 - présent",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Création de capsule vidéo pour des eLearning. Et de contenu multimédia",
+        "Collaborateur technique pour la simulation en soins infirmiers.",
+        "Création de contenu pour les médias sociaux de l'HEdS.",
+        "Développement web et VR.",
       ],
     },
 
@@ -233,67 +213,109 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Ski-club de Saint-Martin",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Site de présentation du ski-club de Saint-Martin.",
       tags: [
         {
-          name: "react",
+          name: "wordpress",
           color: "blue-text-gradient",
         },
         {
-          name: "wordpress",
+          name: "CSS",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Figma",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://skiclub-stmartin.ch/",
     },
     {
-      name: "Job IT",
+      name: "RestoBar",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Site de présentation du restaurant-bar de Le Saint-Martin.",
       tags: [
         {
-          name: "react",
+          name: "Wordpress",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "PHP",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Figma",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://lesaintmartin.ch/",
     },
     {
-      name: "Trip Guide",
+      name: "Thibault Rossier",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Site du fans-club Thibault Rossier.",
       tags: [
         {
-          name: "nextjs",
+          name: "Wordpress",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "PHP",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Figma",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://thibaultrossier.ch/",
+    },
+    {
+      name: "Makerspace",
+      description:
+          "Application web pour le Makerspace à la Médiathèque-Valais.",
+      tags: [
+        {
+          name: "Grav",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "PHP",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Figma",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://thibaultrossier.ch/",
+    },
+    {
+      name: "Clone de Chat-GPT",
+      description:
+          "Clone de Chat-GPT en utilisant l'API de GPT-3.",
+      tags: [
+        {
+          name: "ReactJS",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "TailwindCSS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "API",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://thibaultrossier.ch/",
     },
   ];
   
