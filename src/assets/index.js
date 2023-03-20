@@ -29,6 +29,18 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import chatGPTClone from "./chatGPTClone.png";
+import skiClub from "./skiClub.png";
+import thibault from "./thibaultRossier.png";
+import restoBar from "./restoBar.png";
+import link from "./link.svg";
+
+import twitter from "./twitter.svg";
+import linkedin from "./linkedin.svg";
+import facebook from "./facebook.svg";
+import instagram from "./instagram.svg";
+
+
 export {
   logo,
   backend,
@@ -57,4 +69,13 @@ export {
   carrent,
   jobit,
   tripguide,
+  chatGPTClone,
+  skiClub,
+  thibault,
+  restoBar,
+  link,
+  twitter,
+  linkedin,
+  facebook,
+  instagram,
 };

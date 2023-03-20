@@ -22,6 +22,15 @@ import {
     jobit,
     tripguide,
     threejs,
+    chatGPTClone,
+    skiClub,
+    thibault,
+    restoBar,
+    link,
+    twitter,
+    linkedin,
+    facebook,
+    instagram,
   } from "../assets";
   
   export const navLinks = [
@@ -230,7 +239,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: skiClub,
       source_code_link: "https://skiclub-stmartin.ch/",
     },
     {
@@ -251,7 +260,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: restoBar,
       source_code_link: "https://lesaintmartin.ch/",
     },
     {
@@ -272,7 +281,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: thibault,
       source_code_link: "https://thibaultrossier.ch/",
     },
     {
@@ -293,7 +302,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: chatGPTClone,
       source_code_link: "https://chat-gpt-clone-pi-two.vercel.app/",
     },
   ];
