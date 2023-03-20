@@ -276,27 +276,6 @@ import {
       source_code_link: "https://thibaultrossier.ch/",
     },
     {
-      name: "Makerspace",
-      description:
-          "Application web pour le Makerspace à la Médiathèque-Valais.",
-      tags: [
-        {
-          name: "Grav",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "PHP",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Figma",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://thibaultrossier.ch/",
-    },
-    {
       name: "Clone de Chat-GPT",
       description:
           "Clone de Chat-GPT en utilisant l'API de GPT-3.",
@@ -315,7 +294,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://thibaultrossier.ch/",
+      source_code_link: "https://chat-gpt-clone-pi-two.vercel.app/",
     },
   ];
   
