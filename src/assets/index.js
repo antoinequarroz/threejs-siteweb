@@ -24,6 +24,12 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import ess from "./company/ess.png";
+import heds from "./company/heds.svg";
+import pmoix from "./company/pmoix.jpg";
+import stmartin from "./company/stmartin.svg";
+import mediatheque from "./company/mediatheque.png";
+import ecole42 from "./company/ecole42.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -78,4 +84,10 @@ export {
   linkedin,
   facebook,
   instagram,
+  ess,
+  heds,
+  pmoix,
+  stmartin,
+  mediatheque,
+  ecole42,
 };

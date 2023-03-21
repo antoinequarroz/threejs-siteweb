@@ -31,6 +31,12 @@ import {
     linkedin,
     facebook,
     instagram,
+    ess,
+    heds,
+    pmoix,
+    stmartin,
+    mediatheque,
+    ecole42,
   } from "../assets";
   
   export const navLinks = [
@@ -122,7 +128,7 @@ import {
     {
       title: "Apprenti médiamaticien",
       company_name: "Médiathèque Valais-Wallis",
-      icon: starbucks,
+      icon: mediatheque,
       iconBg: "#383E56",
       date: "août 2017 - juin 2021",
       points: [
@@ -135,7 +141,7 @@ import {
     {
       title: "Moniteur de ski",
       company_name: "ESS-Nax",
-      icon: shopify,
+      icon: ess,
       iconBg: "#383E56",
       date: "décembre 2021 - mars 2022",
       points: [
@@ -146,7 +152,7 @@ import {
     {
       title: "Manoeuvre en charpente",
       company_name: "Pralong-Moix SA",
-      icon: meta,
+      icon: pmoix,
       iconBg: "#E6DEDD",
       date: "avril 2022 - juin 2022",
       points: [
@@ -156,7 +162,7 @@ import {
     {
       title: "Étudiant en développement",
       company_name: "École 42",
-      icon: meta,
+      icon: ecole42,
       iconBg: "#E6DEDD",
       date: "juin 2022 - juillet 2022",
       points: [
@@ -169,7 +175,7 @@ import {
     {
       title: "Job d'étudiant",
       company_name: "Commune de Saint-Martin",
-      icon: meta,
+      icon: stmartin,
       iconBg: "#E6DEDD",
       date: "juillet 2022 - août 2022",
       points: [
@@ -180,7 +186,7 @@ import {
     {
       title: "Médiamaticien",
       company_name: "HES-SO Valais-Wallis",
-      icon: meta,
+      icon: heds,
       iconBg: "#E6DEDD",
       date: "décembre 2022 - présent",
       points: [
