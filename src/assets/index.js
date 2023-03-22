@@ -26,7 +26,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import ess from "./company/ess.png";
 import heds from "./company/heds.svg";
-import pmoix from "./company/pmoix.jpg";
+import pmoix from "./company/pmoix.png";
 import stmartin from "./company/stmartin.svg";
 import mediatheque from "./company/mediatheque.png";
 import ecole42 from "./company/ecole42.png";
