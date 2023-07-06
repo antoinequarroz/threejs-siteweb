@@ -14,4 +14,4 @@ Le site vitrine et portfolio que je suis en train de développer a pour objectif
 * Compétences : une liste de mes compétences techniques et de mes connaissances en informatique.
 * Contact : une page de contact pour me contacter directement par email ou via les réseaux sociaux.
 # Statut du projet
-Ce projet est en cours de développement et sera régulièrement mis à jour avec de nouvelles fonctionnalités et améliorations. Vous pouvez suivre son évolution sur mon compte GitHub.
+Ce projet est en cours de développement et sera régulièrement mis à jour avec de nouvelles fonctionnalités et améliorations. Vous pouvez suivre son évolution sur mon compte GitHub.# new_portfolio_antoinequarroz
