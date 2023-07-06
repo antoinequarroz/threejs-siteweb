@@ -64,7 +64,7 @@ import {
       icon: web,
     },
     {
-      title: "Développeur React Native",
+      title: "Développeur AR / VR",
       icon: mobile,
     },
     {

@@ -26,7 +26,7 @@ const Navbar = () => {
 
             <p className='text-white text-[18px] font-bold cursor-pointer flex '>
               Antoine Quarroz &nbsp;
-              <span className='sm:block hidden text-[#915EFF]'> | Développeur web</span>
+              <span className='sm:block hidden text-[#915EFF]'> | Médiamaticien</span>
             </p>
           </Link>
 

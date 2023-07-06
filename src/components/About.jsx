@@ -42,7 +42,7 @@ const About = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
           >
-              Je suis un développeur de logiciels qualifié avec une expérience en TypeScript et JavaScript et une expertise dans des frameworks tels que React, Node.js et Three.js. J'apprends vite et je collabore étroitement avec les clients pour créer des solutions efficaces, évolutives et conviviales qui résolvent problèmes du monde réel. Travaillons ensemble pour donner vie à vos idées !
+              Je suis un développeur web avec une expérience en TypeScript et JavaScript et une expertise dans des frameworks tels que React, Node.js et Three.js et depuis quelques temps je débute dans le développement VR / AR. J'apprends vite et je collabore étroitement avec les clients pour créer des solutions efficaces, évolutives et conviviales qui résolvent problèmes du monde réel. Travaillons ensemble pour donner vie à vos idées!
           </motion.p>
 
           <div className='mt-20 flex flex-wrap gap-10'>
