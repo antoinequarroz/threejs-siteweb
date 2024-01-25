@@ -16,7 +16,7 @@ const Footer = () => {
                             <img src={twitter} alt={"Twitter"} className="w-[24px] h-[24px] object-contain hover:opacity-60" onClick={"https://twitter.com/antoinequarroz"} />
                         </div>
                         <br/>
-                        <p className="text-sm opacity-60">&copy; 2023 Tous droits réservés.</p>
+                        <p className="text-sm opacity-60">&copy; 2024 Tous droits réservés.</p>
                     </div>
                     <div className="flex space-x-52 pt-3">
                         <div>
