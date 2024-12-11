@@ -19,6 +19,9 @@ import vue from "./tech/vue.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import firebase from "./tech/firebase.png";
+import sass from "./tech/sass.png";
+import nodejs from "./tech/nodejs.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -68,6 +71,9 @@ export {
   tailwind,
   typescript,
   threejs,
+  firebase,
+  sass,
+  nodejs,
   meta,
   shopify,
   starbucks,

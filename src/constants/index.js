@@ -14,7 +14,10 @@ import {
     wordpress,
     git,
     figma,
+    nodejs,
     meta,
+    sass,
+    firebase,
     starbucks,
     tesla,
     shopify,
@@ -42,11 +45,19 @@ import {
   export const navLinks = [
     {
       id: "about",
-      title: "A propos",
+      title: "À propos",
+    },
+    {
+      id: "experience",
+      title: "Expériences",
+    },
+    {
+      id: "technologies",
+      title: "Technologies",
     },
     {
       id: "work",
-      title: "Projet",
+      title: "Projets",
     },
     {
       id: "contact",
@@ -97,6 +108,18 @@ import {
     {
       name: "Vue JS",
       icon: vue,
+    },
+    {
+      name: "Node JS",
+      icon: nodejs,
+    },
+    {
+      name: "Firebase",
+      icon: firebase,
+    },
+    {
+      name: "Sass",
+      icon: sass,
     },
     {
       name: "Bootstrap",
@@ -194,6 +217,7 @@ import {
         "Collaborateur technique pour la simulation en soins infirmiers.",
         "Création de contenu pour les médias sociaux de l'HEdS.",
         "Développement web et VR.",
+          "Développement VueJS d'une application pour la HEdS"
       ],
     },
 
@@ -233,7 +257,7 @@ import {
         "Site de présentation du ski-club de Saint-Martin.",
       tags: [
         {
-          name: "wordpress",
+          name: "Wordpress",
           color: "blue-text-gradient",
         },
         {
@@ -275,11 +299,11 @@ import {
         "Site du fans-club Thibault Rossier.",
       tags: [
         {
-          name: "Wordpress",
+          name: "ReactJS",
           color: "blue-text-gradient",
         },
         {
-          name: "PHP",
+          name: "SCSS",
           color: "green-text-gradient",
         },
         {

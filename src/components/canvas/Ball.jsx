@@ -31,7 +31,7 @@ const Ball = (props) => {
                     scale={1}
                     map={decal}
                     flatShading
-                    debug // Makes "bounding box" of the decal visible
+
                 />
             </mesh>
         </Float>
