@@ -9,11 +9,11 @@ const Footer = () => {
                         <h3 className="font-bold text-xl text-[#915EFF]">Antoine Quarroz</h3>
                         <p className="opacity-60 pt-1">Médiamaticien</p>
                         <div className="flex space-x-4 pt-2">
-                            <img src={github} alt="github" className="w-[24px] h-[24px] object-contain hover:opacity-60" onClick={"https://github.com/antoinequarroz"} />
-                            <img src={linkedin} alt={"Linkedin"} className="w-[24px] h-[24px] object-contain hover:opacity-60" onClick={"https://www.linkedin.com/in/antoine-quarroz-376020187/"} />
-                            <img src={instagram} alt={"Instagram"} className="w-[24px] h-[24px] object-contain hover:opacity-60" onClick={"https://www.instagram.com/antoinequarroz/"} />
-                            <img src={facebook} alt={"Facebook"} className="w-[24px] h-[24px] object-contain hover:opacity-60" onClick={"https://www.facebook.com/AntoineQuarroz"} />
-                            <img src={twitter} alt={"Twitter"} className="w-[24px] h-[24px] object-contain hover:opacity-60" onClick={"https://twitter.com/antoinequarroz"} />
+                            <img src={github} alt="github" className="w-[24px] h-[24px] object-contain hover:opacity-60" onClick={() => window.open("https://github.com/antoinequarroz", "_blank")} />
+                            <img src={linkedin} alt={"Linkedin"} className="w-[24px] h-[24px] object-contain hover:opacity-60" onClick={() => window.open("https://www.linkedin.com/in/antoine-quarroz-376020187/", "_blank")} />
+                            <img src={instagram} alt={"Instagram"} className="w-[24px] h-[24px] object-contain hover:opacity-60" onClick={() => window.open("https://www.instagram.com/antoinequarroz/", "_blank")} />
+                            <img src={facebook} alt={"Facebook"} className="w-[24px] h-[24px] object-contain hover:opacity-60" onClick={() => window.open("https://www.facebook.com/AntoineQuarroz", "_blank")} />
+                            <img src={twitter} alt={"Twitter"} className="w-[24px] h-[24px] object-contain hover:opacity-60" onClick={() => window.open("https://twitter.com/antoinequarroz", "_blank")} />
                         </div>
                         <br/>
                         <p className="text-sm opacity-60">&copy; 2024 Tous droits réservés.</p>

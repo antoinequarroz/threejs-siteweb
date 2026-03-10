@@ -86,14 +86,6 @@ import {
   
   const technologies = [
     {
-      name: "HTML 5",
-      icon: html,
-    },
-    {
-      name: "CSS 3",
-      icon: css,
-    },
-    {
       name: "JavaScript",
       icon: javascript,
     },
@@ -114,36 +106,12 @@ import {
       icon: nodejs,
     },
     {
-      name: "Firebase",
-      icon: firebase,
-    },
-    {
-      name: "Sass",
-      icon: sass,
-    },
-    {
-      name: "Bootstrap",
-      icon:  bootstrapp,
-    },
-    {
-      name: "Tailwind CSS",
-      icon: tailwind,
-    },
-    {
       name: "Three JS",
       icon: threejs,
     },
     {
-      name: "Wordpress",
-      icon: wordpress,
-    },
-    {
-      name: "git",
-      icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
+      name: "Firebase",
+      icon: firebase,
     },
   ];
   
